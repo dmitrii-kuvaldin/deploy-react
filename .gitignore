@@ -1,1 +1,44 @@
-/node_modules/
+# Dependency directories
+node_modules/
+
+# Production build
+build/
+dist/
+*.css
+*.js
+
+# Testing build
+coverage/
+
+# Environment variables
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Cache
+.cache/
+
+# Yarn
+yarn-error.log
+
+# .vscode
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Editor-specific files
+*.swo
+*.swp
+*.swn
+*.swo
+*.swm
+*.swl
+*.un~
+*~
+.project
+.idea/
