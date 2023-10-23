@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/dmitrii-kuvaldin/deploy-react/static/css/main.d9f41ab2.css",
-    "main.js": "/dmitrii-kuvaldin/deploy-react/static/js/main.82f5c088.js",
-    "index.html": "/dmitrii-kuvaldin/deploy-react/index.html",
-    "main.d9f41ab2.css.map": "/dmitrii-kuvaldin/deploy-react/static/css/main.d9f41ab2.css.map",
-    "main.82f5c088.js.map": "/dmitrii-kuvaldin/deploy-react/static/js/main.82f5c088.js.map"
+    "main.css": "//dmitrii-kuvaldin.github.io/deploy-react/static/css/main.d9f41ab2.css",
+    "main.js": "//dmitrii-kuvaldin.github.io/deploy-react/static/js/main.82f5c088.js",
+    "index.html": "//dmitrii-kuvaldin.github.io/deploy-react/index.html",
+    "main.d9f41ab2.css.map": "//dmitrii-kuvaldin.github.io/deploy-react/static/css/main.d9f41ab2.css.map",
+    "main.82f5c088.js.map": "//dmitrii-kuvaldin.github.io/deploy-react/static/js/main.82f5c088.js.map"
   },
   "entrypoints": [
     "static/css/main.d9f41ab2.css",
